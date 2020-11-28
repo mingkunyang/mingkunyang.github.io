@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HAR | Mingkun&#39;s homepage</title>
+    <link>https://mingkunyang.github.io/tag/har/</link>
+      <atom:link href="https://mingkunyang.github.io/tag/har/index.xml" rel="self" type="application/rss+xml" />
+    <description>HAR</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mingkunyang.github.io/images/icon_hu786fa58ccadddb09b05070c28e40422f_10189_512x512_fill_lanczos_center_2.png</url>
+      <title>HAR</title>
+      <link>https://mingkunyang.github.io/tag/har/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Human Activity Recognition Solving the Confusing Activities via Deep Ensemble Learning</title>
+      <link>https://mingkunyang.github.io/publication/access/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://mingkunyang.github.io/publication/access/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Human activity recognition (HAR), &lt;strong&gt;identifying the actions of individual&lt;/strong&gt; based on a set of observation, is widely applied to pedestrian indoor tracking, healthcare, Intelligent city, etc. Vision-based recognition algorithms suffer from factors such as lighting condition, clothing color, and image background. Therefore, this paper, leveraging the &lt;strong&gt;build-in sensor of the smartphone&lt;/strong&gt;, proposes a sensor-based HAR model.&lt;/p&gt;
+&lt;h2 id=&#34;contribution&#34;&gt;&lt;strong&gt;Contribution&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The proposed model utilizes CNN to perform the HAR task. A CNN-7 block is used to identify seven activities. In terms of confusing human activities, a binary-classifier CNN-2, in the &lt;strong&gt;ensemble learning&lt;/strong&gt; way, helps the model to determine the actual human activity through &lt;strong&gt;weighted voting&lt;/strong&gt;. The contributions can be summarized into:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Abundant and extensive date collection&lt;/strong&gt;: The data in this paper contains three motion sensors readings collected by 100 participants. There are &lt;strong&gt;four different placements&lt;/strong&gt; of the smartphone and &lt;strong&gt;seven typical daily human activities&lt;/strong&gt;. The data set not only guarantees the effective training on neural network, but makes the recognition task challenging.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accurate and robust recognition&lt;/strong&gt;: &lt;strong&gt;Avoiding handcrafted features engineering&lt;/strong&gt;, the average accuracy of proposed ensemble model can achieve up to &lt;strong&gt;96.11%&lt;/strong&gt;. The devised voting mechanism &lt;strong&gt;improves the classification accuracy among two confusing activities&lt;/strong&gt; (walking and going upstairs) further.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
