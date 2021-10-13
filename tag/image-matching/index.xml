@@ -5,7 +5,7 @@
     <link>https://mingkunyang.github.io/tag/image-matching/</link>
       <atom:link href="https://mingkunyang.github.io/tag/image-matching/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Matching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mingkunyang.github.io/images/icon_hu786fa58ccadddb09b05070c28e40422f_10189_512x512_fill_lanczos_center_2.png</url>
       <title>Image Matching</title>
@@ -15,7 +15,7 @@
     <item>
       <title>MetricNet: A Loop Closure Detection Method for Appearance Variation using Adaptive Weighted Similarity Matrix</title>
       <link>https://mingkunyang.github.io/preprint/metricnet/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>https://mingkunyang.github.io/preprint/metricnet/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Loop Closure Detection (LCD), also known as visual place recognition, provides extra information that &lt;strong&gt;robot has visited this area before&lt;/strong&gt;. This constrain assists the positioning system to &lt;strong&gt;reduce the pose estimation error&lt;/strong&gt; by following optimization algorithm.&lt;/p&gt;

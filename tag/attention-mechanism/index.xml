@@ -14,9 +14,9 @@
     
     <item>
       <title>DeepAVO: Efficient Pose Refining with Feature Distilling for Deep Visual Odometry</title>
-      <link>https://mingkunyang.github.io/preprint/deepavo/</link>
+      <link>https://mingkunyang.github.io/publication/deepavo/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mingkunyang.github.io/preprint/deepavo/</guid>
+      <guid>https://mingkunyang.github.io/publication/deepavo/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Visual Odometry (VO), recovers the ego-motion from image sequences by exploiting the consistency between consecutive frames, which has been widely applied to various applications, ranging
 from autonomous driving and space exploration to virtual and augmented reality. Although many state-of-the-art learning-based methods have yielded competitive results against classic algorithms, they consider the visual cues in the whole image equally.&lt;/p&gt;

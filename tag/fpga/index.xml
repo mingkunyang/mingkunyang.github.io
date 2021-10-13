@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FPGA | Mingkun&#39;s homepage</title>
+    <link>https://mingkunyang.github.io/tag/fpga/</link>
+      <atom:link href="https://mingkunyang.github.io/tag/fpga/index.xml" rel="self" type="application/rss+xml" />
+    <description>FPGA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mingkunyang.github.io/images/icon_hu786fa58ccadddb09b05070c28e40422f_10189_512x512_fill_lanczos_center_2.png</url>
+      <title>FPGA</title>
+      <link>https://mingkunyang.github.io/tag/fpga/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Pedestrian Tracking Terminal Based on Adaptive Zero Velocity Update</title>
+      <link>https://mingkunyang.github.io/publication/real-time-pdr/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mingkunyang.github.io/publication/real-time-pdr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://mingkunyang.github.io/publication-type/0/</link>
       <atom:link href="https://mingkunyang.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mingkunyang.github.io/images/icon_hu786fa58ccadddb09b05070c28e40422f_10189_512x512_fill_lanczos_center_2.png</url>
       <title>0</title>
@@ -13,9 +13,29 @@
     </image>
     
     <item>
+      <title>Real-Time Pedestrian Tracking Terminal Based on Adaptive Zero Velocity Update</title>
+      <link>https://mingkunyang.github.io/publication/real-time-pdr/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mingkunyang.github.io/publication/real-time-pdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Inertial Map Matching for Indoor Positioning using Architectural Constraints</title>
+      <link>https://mingkunyang.github.io/preprint/map/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://mingkunyang.github.io/preprint/map/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;For the self-contained navigation systems, the accurate &lt;strong&gt;initial position&lt;/strong&gt;, as the prior knowledge, is crucial for real-world task. Whereas, most existing systems rely on the external signals to achieve initialization, which is contrary to the original intention of positioning whithout pre-installed infrastructure.&lt;/p&gt;
+&lt;h2 id=&#34;contribution&#34;&gt;&lt;strong&gt;Contribution&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The proposed algorithm requires 2D plane map, foot-mounted inertial data, hand-held shot images, realizing a real self-contained navigation system. From the topological points in the maps, the trajectory of pedestrian can be selected via three steps: 1) cursory selection by &lt;strong&gt;ZUPT-aided INS&lt;/strong&gt; generates several candidate paths; 2) &lt;strong&gt;door detection and matching&lt;/strong&gt; excludes some trails further; 3) the final result is decided by a &lt;strong&gt;Siamese Network&lt;/strong&gt; matching the spatial structure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MetricNet: A Loop Closure Detection Method for Appearance Variation using Adaptive Weighted Similarity Matrix</title>
       <link>https://mingkunyang.github.io/preprint/metricnet/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>https://mingkunyang.github.io/preprint/metricnet/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Loop Closure Detection (LCD), also known as visual place recognition, provides extra information that &lt;strong&gt;robot has visited this area before&lt;/strong&gt;. This constrain assists the positioning system to &lt;strong&gt;reduce the pose estimation error&lt;/strong&gt; by following optimization algorithm.&lt;/p&gt;
@@ -31,9 +51,9 @@ The contributions can be summarized into:&lt;/p&gt;
     
     <item>
       <title>DeepAVO: Efficient Pose Refining with Feature Distilling for Deep Visual Odometry</title>
-      <link>https://mingkunyang.github.io/preprint/deepavo/</link>
+      <link>https://mingkunyang.github.io/publication/deepavo/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://mingkunyang.github.io/preprint/deepavo/</guid>
+      <guid>https://mingkunyang.github.io/publication/deepavo/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Visual Odometry (VO), recovers the ego-motion from image sequences by exploiting the consistency between consecutive frames, which has been widely applied to various applications, ranging
 from autonomous driving and space exploration to virtual and augmented reality. Although many state-of-the-art learning-based methods have yielded competitive results against classic algorithms, they consider the visual cues in the whole image equally.&lt;/p&gt;
@@ -48,9 +68,9 @@ from autonomous driving and space exploration to virtual and augmented reality. 
     
     <item>
       <title>Symmetrical-Net: Adaptive Zero Velocity Detection for ZUPT-Aided Pedestrian Navigation System</title>
-      <link>https://mingkunyang.github.io/preprint/symmetrical-net/</link>
+      <link>https://mingkunyang.github.io/publication/symmetrical-net/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://mingkunyang.github.io/preprint/symmetrical-net/</guid>
+      <guid>https://mingkunyang.github.io/publication/symmetrical-net/</guid>
       <description>&lt;h2 id=&#34;background&#34;&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Zero velocity detection selects the phase that &lt;strong&gt;foot is anchored to the ground&lt;/strong&gt; from the whole gait of pedestrian. As the vital part of zero velocity update (ZUPT), it &lt;strong&gt;triggers the error-state Kalman Filter (ESKF)&lt;/strong&gt; to modify the position estimated by pedestrian dead reckoning (PDR).&lt;/p&gt;
 &lt;h2 id=&#34;contribution&#34;&gt;&lt;strong&gt;Contribution&lt;/strong&gt;&lt;/h2&gt;
@@ -59,18 +79,6 @@ from autonomous driving and space exploration to virtual and augmented reality. 
 &lt;li&gt;&lt;strong&gt;Robust and adaptive zero velocity detection&lt;/strong&gt;: Compared with the fixed threshold detector, the proposed Symmetrical-Net can &lt;strong&gt;adaptively calculate the probability&lt;/strong&gt; of being stationary, conserving the manual labour to fine tune the threshold. It also outperforms other competing adaptive detectors, which is attributed to &lt;strong&gt;considering contextual information&lt;/strong&gt; and &lt;strong&gt;extended observation scope&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Accurate and robust pedestrian tracking&lt;/strong&gt;: Performance of Symmetrical-Net makes a profound &lt;strong&gt;impact on the trajectory reconstruction of the ZUPT-aided INS system&lt;/strong&gt;. Extensive experiments reveals that the navigation system, assisted with proposed detector, maintains high-accuracy positioning &lt;strong&gt;under various individuals in three motion&lt;/strong&gt; (walking, fast walking, and running).&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Visual Inertial Map Matching for Indoor Positioning using Architectural Constraints</title>
-      <link>https://mingkunyang.github.io/preprint/map/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://mingkunyang.github.io/preprint/map/</guid>
-      <description>&lt;h2 id=&#34;background&#34;&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;For the self-contained navigation systems, the accurate &lt;strong&gt;initial position&lt;/strong&gt;, as the prior knowledge, is crucial for real-world task. Whereas, most existing systems rely on the external signals to achieve initialization, which is contrary to the original intention of positioning whithout pre-installed infrastructure.&lt;/p&gt;
-&lt;h2 id=&#34;contribution&#34;&gt;&lt;strong&gt;Contribution&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;The proposed algorithm requires 2D plane map, foot-mounted inertial data, hand-held shot images, realizing a real self-contained navigation system. From the topological points in the maps, the trajectory of pedestrian can be selected via three steps: 1) cursory selection by &lt;strong&gt;ZUPT-aided INS&lt;/strong&gt; generates several candidate paths; 2) &lt;strong&gt;door detection and matching&lt;/strong&gt; excludes some trails further; 3) the final result is decided by a &lt;strong&gt;Siamese Network&lt;/strong&gt; matching the spatial structure.&lt;/p&gt;
 </description>
     </item>
     
