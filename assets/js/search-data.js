@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/my_cv.pdf";
+            window.location.href = "/assets/pdf/my_cv.pdf";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -403,14 +403,14 @@ ninja.data = [{
           section: "News",},{id: "news-honored-to-be-selected-to-take-part-in-the-advanced-digital-technologies-international-student-workshop-in-barcelona",
           title: 'Honored to be selected to take part in the Advanced Digital Technologies International...',
           description: "",
-          section: "News",},{id: "news-our-paper-entitled-shufflefl-addressing-heterogeneity-in-multi-device-federated-learning-has-been-accepted-to-appear-in-acm-imwut-2024",
-          title: 'Our paper entitled “ShuffleFL: Addressing heterogeneity in multi-device federated learning” has been accepted...',
+          section: "News",},{id: "news-our-paper-shufflefl-addressing-heterogeneity-in-multi-device-federated-learning-accepted-by-acm-imwut-2024",
+          title: 'Our paper “ShuffleFL: Addressing heterogeneity in multi-device federated learning” accepted by ACM IMWUT...',
           description: "",
           section: "News",},{id: "news-our-paper-fedreg-accepted-by-ewsn-24",
           title: 'Our paper FedReG accepted by EWSN’24',
           description: "",
-          section: "News",},{id: "news-our-paper-flick-empowering-federated-learning-with-commonsense-knowledge-has-been-accepted-to-appear-in-neurips-25",
-          title: 'Our paper “Flick: Empowering Federated Learning with Commonsense Knowledge’’ has been accepted to...',
+          section: "News",},{id: "news-our-paper-flick-empowering-federated-learning-with-commonsense-knowledge-accepted-by-neurips-25",
+          title: 'Our paper “Flick: Empowering Federated Learning with Commonsense Knowledge’’ accepted by NeurIPS’25.',
           description: "",
           section: "News",},{id: "news-our-paper-smofi-step-wise-momentum-fusion-for-split-federated-learning-on-heterogeneous-data-accepted-by-aaai-26",
           title: 'Our paper SMoFi: Step-wise Momentum fusion for Split Federated Learning on Heterogeneous Data...',
